@@ -45,3 +45,10 @@ h1:hover {
     margin-right: auto;
     width: 20%;
   }
+
+.flyer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
